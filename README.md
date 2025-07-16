@@ -1,6 +1,6 @@
  NeoMind AI Chat Assistant
 
-NeoMind is a general-purpose AI-powered chatbot that interacts with users in a friendly and intelligent manner. Built using Python (Flask), google  Gemini API, HTML/CSS/JS for the frontend — it simulates human-like responses for any general queries.
+geni is a general-purpose AI-powered chatbot that interacts with users in a friendly and intelligent manner. Built using Python (Flask), google  Gemini API, HTML/CSS/JS for the frontend — it simulates human-like responses for any general queries.
 
 ## 🚀 Features
 
